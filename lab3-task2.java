@@ -71,4 +71,5 @@ class TestAnimal
 //output
 
 2
+
 The dog barks
